@@ -1,5 +1,5 @@
 // Họ tên: Nguyễn Văn Hùng Nghĩa - MSSV: 25810028
-//val không được thay đổi biến, var có thể thay đổi biến
+//val không được thay đổi biến, var có thể thay đổi biến 
 fun main() {
     val soDuBanDau: Double = 5000000.0
     var soDu: Double = soDuBanDau
